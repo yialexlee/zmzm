@@ -1,0 +1,1 @@
+dir *.M3U8 /b>m3u8.txt
