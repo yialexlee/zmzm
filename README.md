@@ -53,7 +53,7 @@
 * Xshell
 * Navicat
 * RStudio
-* ...
+* . . .
 
 ---
 
