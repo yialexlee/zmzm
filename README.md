@@ -59,7 +59,7 @@
 
 ### 截图
 
-* 每个大版本更新一次软件截图
+* 每个大版本更新一次软件截图，截图需要挂代理才能看到
 
 ![Image text](https://raw.githubusercontent.com/zmzmon/zmzm/main/%E5%B7%A5%E5%85%B7%E6%88%AA%E5%9B%BE/1.png)
 
