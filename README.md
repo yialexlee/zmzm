@@ -82,6 +82,10 @@ Maye官网 https://blog.arae.cc/post/25830.html
 
 这个只能在杀毒软件添加白名单或者关闭杀毒软件
 
+#### xshell打开缺少dll
+
+64位电脑需要同时安装下面这个链接里的32位和64位
+http://www.microsoft.com/zh-CN/download/details.aspx?id=30679
 
 ---
 
