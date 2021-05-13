@@ -8,6 +8,18 @@
 
 *阿乐取证工具集V1.1*
 
+
+#### v1.2下载
+
+[**高速下载**](https://pan.forensix.cn/f/f05a016f14ac446e8436/?dl=1)
+链接：https://pan.forensix.cn/f/f05a016f14ac446e8436/?dl=1
+
+#### 更新内容
+
+* 新增了Lily启动器（目前两个启动器都可以用），以及Maye，Rolan的安装程序，解决系统的兼容性问题。
+ 
+* 新增哈希计算工具 文件校验工具.exe。
+
 #### v1.1下载
 
 [**百度云下载**](https://pan.baidu.com/s/1Y4o9l45rNhMMdt9uRrq_Vg)
@@ -20,13 +32,13 @@
 链接：https://pan.forensix.cn/f/7f53f1a482314582b7e9/?dl=1
 
 #### 更新内容
-1.新增WePE2.1
+* 新增WePE2.1
 
-2.新增diskgenius
+* 新增diskgenius
 
-3.在线工具VirusTotal
+* 在线工具VirusTotal
 
-4.在线工具360quake
+* 在线工具360quake
 
 ---
 
@@ -44,7 +56,7 @@
 链接：https://pan.forensix.cn/f/31fb6d3a1d1147a38bba/?dl=1
 
 #### 功能
-录像工具，制作镜像工具，哈希工具，远程连接工具，数据库管理工具，逆向工具，数据恢复工具，端口、进程、日志工具等
+录像工具，制作镜像工具，哈希工具，远程连接工具，数据库管理工具，逆向工具，数据恢复工具，端口、进程、日志工具等。
 * 取证录像软件
 * FTK Imager
 * Hash Tools
@@ -86,6 +98,11 @@ Maye官网 https://blog.arae.cc/post/25830.html
 
 64位电脑需要同时安装下面这个链接里的32位和64位
 http://www.microsoft.com/zh-CN/download/details.aspx?id=30679
+
+#### 打开无界面问题
+
+部分电脑无界面，可以打开软件后先右键高级选项-基本设置-勾选靠边时自动隐藏-勾选移动到主界面时自动获取焦点
+（具体原因未知，通过此方法可显示）
 
 ---
 
