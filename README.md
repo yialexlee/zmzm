@@ -4,33 +4,6 @@
 
 ---
 
-### 一些问题
-#### 兼容性问题 
-
-目前我自己用的是win10 64位专业版没遇到什么问题，目前已知win10 工作站版好像有一些问题。
-
-#### 闪退问题
-
-换一个启动工具，可以到音速启动官网或者Rolan官网下载，把软件手动添加进新的启动器进行快捷启动。
-
-[音速启动下载](http://www.3lsoft.com/zb_users/upload/2020/01/setup_vstart6.exe)
-
-[Rolan2下载](https://kzzkz.gz.bcebos.com/setup.exe)
-
-[Maye下载](https://share.weiyun.com/1tjpvaTo)
-
-[lily下载(第三方下载未验证)](http://soft.zdfans9.xyz/Lily_38161.zip)
-
-音速启动官网 http://www.3lsoft.com/?id=6
-
-Rolan官网 https://getrolan.com/
-
-Maye官网 https://blog.arae.cc/post/25830.html
-
-#### 杀毒问题
-
-这个只能在杀毒软件添加白名单或者关闭杀毒软件
-
 ### 版本
 
 *阿乐取证工具集V1.1*
@@ -69,6 +42,36 @@ Maye官网 https://blog.arae.cc/post/25830.html
 [**高速下载**](https://pan.forensix.cn/f/31fb6d3a1d1147a38bba/?dl=1)
 
 链接：https://pan.forensix.cn/f/31fb6d3a1d1147a38bba/?dl=1
+
+
+
+### 一些问题
+#### 兼容性问题 
+
+目前我自己用的是win10 64位专业版没遇到什么问题，目前已知win10 工作站版好像有一些问题。
+
+#### 闪退问题
+
+换一个启动工具，可以到音速启动官网或者Rolan官网下载，把软件手动添加进新的启动器进行快捷启动。
+
+[音速启动下载](http://www.3lsoft.com/zb_users/upload/2020/01/setup_vstart6.exe)
+
+[Rolan2下载](https://kzzkz.gz.bcebos.com/setup.exe)
+
+[Maye下载](https://share.weiyun.com/1tjpvaTo)
+
+[lily下载(第三方下载未验证)](http://soft.zdfans9.xyz/Lily_38161.zip)
+
+音速启动官网 http://www.3lsoft.com/?id=6
+
+Rolan官网 https://getrolan.com/
+
+Maye官网 https://blog.arae.cc/post/25830.html
+
+#### 杀毒问题
+
+这个只能在杀毒软件添加白名单或者关闭杀毒软件
+
 
 #### 功能
 录像工具，制作镜像工具，哈希工具，远程连接工具，数据库管理工具，逆向工具，数据恢复工具，端口、进程、日志工具等
