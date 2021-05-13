@@ -13,9 +13,9 @@
 
 换一个启动工具，可以到音速启动官网或者Rolan官网下载，把软件手动添加进新的启动器进行快捷启动。
 
-[**音速启动下载**](http://www.3lsoft.com/zb_users/upload/2020/01/setup_vstart6.exe)
+[音速启动下载](http://www.3lsoft.com/zb_users/upload/2020/01/setup_vstart6.exe)
 
-[**Rolan2下载**](https://kzzkz.gz.bcebos.com/setup.exe)
+[Rolan2下载](https://kzzkz.gz.bcebos.com/setup.exe)
 
 音速启动官网 http://www.3lsoft.com/?id=6
 
