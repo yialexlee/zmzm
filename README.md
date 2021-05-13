@@ -19,7 +19,7 @@
 
 [Maye下载](https://share.weiyun.com/1tjpvaTo)
 
-[lily下载](http://soft.zdfans9.xyz/Lily_38161.zip)
+[lily下载(第三方下载未验证)](http://soft.zdfans9.xyz/Lily_38161.zip)
 
 音速启动官网 http://www.3lsoft.com/?id=6
 
