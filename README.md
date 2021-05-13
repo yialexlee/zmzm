@@ -17,9 +17,15 @@
 
 [Rolan2下载](https://kzzkz.gz.bcebos.com/setup.exe)
 
+[Maye下载](https://share.weiyun.com/1tjpvaTo)
+
+[lily下载](http://soft.zdfans9.xyz/Lily_38161.zip)
+
 音速启动官网 http://www.3lsoft.com/?id=6
 
 Rolan官网 https://getrolan.com/
+
+Maye官网 https://blog.arae.cc/post/25830.html
 
 #### 杀毒问题
 
