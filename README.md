@@ -20,6 +20,8 @@
  
 * 新增哈希计算工具 文件校验工具.exe。
 
+---
+
 #### v1.1下载
 
 [**百度云下载**](https://pan.baidu.com/s/1Y4o9l45rNhMMdt9uRrq_Vg)
