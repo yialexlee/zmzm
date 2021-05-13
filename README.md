@@ -43,7 +43,17 @@
 
 链接：https://pan.forensix.cn/f/31fb6d3a1d1147a38bba/?dl=1
 
-
+#### 功能
+录像工具，制作镜像工具，哈希工具，远程连接工具，数据库管理工具，逆向工具，数据恢复工具，端口、进程、日志工具等
+* 取证录像软件
+* FTK Imager
+* Hash Tools
+* WinHex
+* Xftp
+* Xshell
+* Navicat
+* RStudio
+* . . .
 
 ### 一些问题
 #### 兼容性问题 
@@ -72,18 +82,6 @@ Maye官网 https://blog.arae.cc/post/25830.html
 
 这个只能在杀毒软件添加白名单或者关闭杀毒软件
 
-
-#### 功能
-录像工具，制作镜像工具，哈希工具，远程连接工具，数据库管理工具，逆向工具，数据恢复工具，端口、进程、日志工具等
-* 取证录像软件
-* FTK Imager
-* Hash Tools
-* WinHex
-* Xftp
-* Xshell
-* Navicat
-* RStudio
-* . . .
 
 ---
 
