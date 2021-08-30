@@ -6,6 +6,26 @@
 
 ### 版本
 
+*阿乐取证工具集V1.3*
+
+#### v1.3下载
+
+[**高速下载**](https://pan.forensix.cn/f/ac630399d96c48e4a6c5/?dl=1)
+
+链接：https://pan.forensix.cn/f/ac630399d96c48e4a6c5/?dl=1
+
+#### 更新内容
+
+* 新增FileLocatorPro
+* 新增finashell安装包
+* 新增网站日志查看工具
+* 新增jd-gui
+* 新增OllyDBG
+* 新增idaPlus
+* 新增SQLiteSudio
+
+---
+
 *阿乐取证工具集V1.2.1*
 
 #### v1.2.1下载
