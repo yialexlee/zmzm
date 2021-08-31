@@ -10,9 +10,17 @@
 
 #### v1.3下载
 
-[**高速下载**](https://pan.forensix.cn/f/ac630399d96c48e4a6c5/?dl=1)
+[**高速下载**](https://pan.forensix.cn/f/ac630399d96c48e4a6c5/?dl=1 )
 
 链接：https://pan.forensix.cn/f/ac630399d96c48e4a6c5/?dl=1
+
+[**百度云下载**](https://pan.baidu.com/s/1uyM90sF2P-RXF9OZPyQG8Q )
+
+链接：https://pan.baidu.com/s/1uyM90sF2P-RXF9OZPyQG8Q 
+
+提取码：zl10 
+
+--来自百度网盘超级会员V4的分享
 
 #### 更新内容
 
